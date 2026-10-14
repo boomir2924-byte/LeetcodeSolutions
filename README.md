@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 ## Breadth-First Search
@@ -43,4 +44,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
+## Sorting
+|  |
+| ------- |
+| [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
