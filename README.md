@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
+| [0342-power-of-four](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
+| [0342-power-of-four](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
