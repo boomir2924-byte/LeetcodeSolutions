@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0051-n-queens) |
 | [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
 ## Breadth-First Search
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
+| [0051-n-queens](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0052-n-queens-ii) |
 ## Sorting
 |  |
@@ -56,5 +58,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
