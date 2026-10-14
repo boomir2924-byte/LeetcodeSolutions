@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Tree
