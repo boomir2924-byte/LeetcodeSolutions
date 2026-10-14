@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [1143-longest-common-subsequence](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
@@ -22,4 +23,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
