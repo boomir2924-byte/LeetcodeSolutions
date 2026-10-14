@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0326-power-of-three](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0326-power-of-three) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0518-coin-change-ii) |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0342-power-of-four) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
