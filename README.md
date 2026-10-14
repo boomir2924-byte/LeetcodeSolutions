@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0052-n-queens-ii) |
+| [0078-subsets](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 ## Sorting
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0090-subsets-ii) |
 | [0231-power-of-two](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0342-power-of-four) |
