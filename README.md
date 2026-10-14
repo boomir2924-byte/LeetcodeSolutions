@@ -9,8 +9,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
+| [1143-longest-common-subsequence](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 ## Recursion
 |  |
 | ------- |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
+## String
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
