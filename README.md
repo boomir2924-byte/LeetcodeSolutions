@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 | [0233-number-of-digit-one](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0233-number-of-digit-one) |
 ## String
 |  |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0094-binary-tree-inorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
