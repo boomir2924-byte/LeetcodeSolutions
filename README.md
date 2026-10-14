@@ -48,8 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
+| [0052-n-queens-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0052-n-queens-ii) |
 ## Sorting
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0047-permutations-ii) |
+## Algorithm X
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/boomir2924-byte/LeetcodeSolutions/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
